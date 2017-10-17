@@ -23,3 +23,4 @@ Wired Sensors is a web application that will help users make decisions based on 
 - Browse to localhost:6060
 
 
+interesting
